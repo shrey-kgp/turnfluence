@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/turnfluence/static/css/main.00e8bb92.chunk.css",
+    "main.js": "/turnfluence/static/js/main.d420715b.chunk.js",
+    "main.js.map": "/turnfluence/static/js/main.d420715b.chunk.js.map",
+    "runtime-main.js": "/turnfluence/static/js/runtime-main.ab7aebc0.js",
+    "runtime-main.js.map": "/turnfluence/static/js/runtime-main.ab7aebc0.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/turnfluence/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.34dd97ad.chunk.js": "/turnfluence/static/js/2.34dd97ad.chunk.js",
+    "static/js/2.34dd97ad.chunk.js.map": "/turnfluence/static/js/2.34dd97ad.chunk.js.map",
+    "static/js/3.a34097dd.chunk.js": "/turnfluence/static/js/3.a34097dd.chunk.js",
+    "static/js/3.a34097dd.chunk.js.map": "/turnfluence/static/js/3.a34097dd.chunk.js.map",
+    "index.html": "/turnfluence/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/turnfluence/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.00e8bb92.chunk.css.map": "/turnfluence/static/css/main.00e8bb92.chunk.css.map",
+    "static/js/2.34dd97ad.chunk.js.LICENSE.txt": "/turnfluence/static/js/2.34dd97ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab7aebc0.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.34dd97ad.chunk.js",
+    "static/css/main.00e8bb92.chunk.css",
+    "static/js/main.d420715b.chunk.js"
+  ]
+}
