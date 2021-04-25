@@ -4,7 +4,7 @@ import { Col, Row, Button } from 'react-bootstrap';
 class Page2 extends React.Component {
  render() {
     return (
-        <div class="container" style={{marginTop: "5%", marginBottom: "4%"}}>
+        <div id="Page2" class="container" style={{marginTop: "5%", marginBottom: "4%"}}>
         <br/><br/><br/><br/><br/>
              <Row>   
                 <Col xs lg="4">

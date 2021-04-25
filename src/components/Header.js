@@ -15,12 +15,14 @@ class Header extends React.Component {
             <Navbar.Toggle />
             <Navbar.Collapse className="justify-content-end" style={{paddingRight:"22px"}}>
                 <Nav>
-                    <Nav.Link style={{color: "#072B46", fontWeight:"500"}} href="/">Methodology</Nav.Link>
                     <Nav.Link style={{color: "#072B46", fontWeight:"500"}}>
-                        <Link to="howthemagicworks" spy={true} smooth={true}>Products</Link>
+                        <Link to="Page1" spy={true} smooth={true}>Methodology</Link>
                     </Nav.Link>
-                    <Nav.Link style={{color: "#072B46", fontWeight:"500"}} href="/">
-                        Contacts
+                    <Nav.Link style={{color: "#072B46", fontWeight:"500"}}>
+                        <Link to="Page2" spy={true} smooth={true}>Products</Link>
+                    </Nav.Link>
+                    <Nav.Link style={{color: "#072B46", fontWeight:"500"}}>
+                        <Link to="Page5" spy={true} smooth={true}>Contact</Link>
                     </Nav.Link>
                 </Nav>                
             </Navbar.Collapse>

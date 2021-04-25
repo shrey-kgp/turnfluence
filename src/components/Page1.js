@@ -3,7 +3,7 @@ import { Col, Row} from "react-bootstrap";
 class Page1 extends React.Component {
     render() {
         return (
-        <div class="container" style={{marginTop: "5%", marginBottom: "4%", width: "100%"}}>
+        <div id="Page1" class="container" style={{marginTop: "5%", marginBottom: "4%", width: "100%"}}>
             <br/>           
                 <Row >
                 <Col xs lg="2">
